@@ -1,7 +1,7 @@
 # android-testing-support-library-notracking
 
 
-[ ![Download](https://api.bintray.com/packages/zhangzhenli/android-tools/com.house365.apps.test/images/download.svg) ](https://bintray.com/zhangzhenli/android-tools/com.house365.apps.test/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/zhangzhenli/android-tools/com.house365.apps.test.Runner/images/download.svg) ](https://bintray.com/zhangzhenli/android-tools/com.house365.apps.test.Runner/_latestVersion)
 
 
 ##目的
