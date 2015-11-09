@@ -1,7 +1,6 @@
-# android-testing-support-library-notracking
+# android-runner-notracker
 
-
-[ ![Download](https://api.bintray.com/packages/zhangzhenli/android-tools/com.house365.apps.test.Runner/images/download.svg) ](https://bintray.com/zhangzhenli/android-tools/com.house365.apps.test.Runner/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/zhangzhenli/maven/android-runner-notracker/images/download.svg) ](https://bintray.com/zhangzhenli/maven/android-runner-notracker/_latestVersion)
 
 
 ##目的
