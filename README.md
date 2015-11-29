@@ -28,7 +28,7 @@ If you do not wish to upload this data, you can opt out by passing the following
 
 在测试依赖中添加如下依赖:
 
-    androidTestCompile 'com.house365.apps.test:runner:0.4.1'
+    androidTestCompile 'com.house365.build:android-runner-notracker:0.1'
 
 Add to the same build.gradle file the following line in `android.defaultConfig`:
 
