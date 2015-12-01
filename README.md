@@ -24,12 +24,17 @@ If you do not wish to upload this data, you can opt out by passing the following
  >https://code.google.com/p/android/issues/detail?id=191551
 
 
-##使用
+## 用法
+ 1. 引入依赖.
 
-在测试依赖中添加如下依赖:
-
+    在build.gradle中添加依赖:
+    ``` groovy
     androidTestCompile 'com.house365.build:android-runner-notracker:0.1'
+    ```
 
-Add to the same build.gradle file the following line in `android.defaultConfig`:
+ 3. 在build.gradle的android.defaultConfig下加入如下代码.
 
+    ``` groovy
     testInstrumentationRunner "android.support.test.runner.AndroidTestRunner"
+    ```
+    
